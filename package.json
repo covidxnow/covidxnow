@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/covidxnow/covidxnow/issues"
   },
-  "homepage": "https://github.com/covidxnow/covidxnow#readme"
+  "homepage": "https://github.com/covidxnow/covidxnow#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
 }
