@@ -1,2 +1,2 @@
-# EBW2020
+# COVIDxNOW
 marketplace
