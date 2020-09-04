@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/covidxnow/covidxnow#readme",
   "dependencies": {
-    "mongodb": "^2.2.33"
+    "mongodb": "^3.6.1"
   }
 }
